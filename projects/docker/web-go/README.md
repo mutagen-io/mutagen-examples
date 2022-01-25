@@ -5,7 +5,7 @@
 real-world usage, you'll probably want to use
 [Mutagen's support for Docker Compose](https://mutagen.io/documentation/orchestration/compose),
 and you can find a corresponding example of this demo
-[here](https://github.com/mutagen-io/mutagen/tree/master/examples/compose/web-go).
+[here](https://github.com/mutagen-io/mutagen-examples/tree/main/compose/web-go).
 
 This directory contains an example [Go](https://golang.org/)-based web
 application designed to be developed and run on a cloud-based container host

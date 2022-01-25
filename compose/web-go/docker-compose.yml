@@ -56,7 +56,7 @@ x-mutagen:
           - "!/api/{entrypoint.sh,go.mod,go.sum,server.go}"
           - "!/frontend/"
           - "/frontend/*"
-          - "!/frontend/{entrypoint.sh,gulpfile.js,index.html,package*.json}"
+          - "!/frontend/{entrypoint.sh,gulpfile.js,index.html,package.json,yarn.lock}"
           - "!/web/"
           - "/web/*"
           - "!/web/{entrypoint.sh,go.mod,go.sum,server.go}"

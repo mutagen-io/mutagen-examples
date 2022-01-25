@@ -1,4 +1,4 @@
-module github.com/mutagen-io/mutagen/examples/compose/web-go/api
+module github.com/mutagen-io/mutagen-examples/compose/web-go/api
 
 go 1.13
 

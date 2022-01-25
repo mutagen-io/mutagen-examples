@@ -5,7 +5,7 @@
 real-world usage, you'll probably want to use
 [Mutagen's support for Docker Compose](https://mutagen.io/documentation/orchestration/compose),
 and you can find a corresponding example of this demo
-[here](https://github.com/mutagen-io/mutagen/tree/master/examples/compose/data-science).
+[here](https://github.com/mutagen-io/mutagen-examples/tree/main/compose/data-science).
 
 This directory contains an example [Jupyter](https://jupyter.org/)-based data
 science environment designed to be run on a cloud-based container host (though

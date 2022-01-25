@@ -14,7 +14,7 @@ is running.
 ## Usage
 
 This example behaves like any other Composed-based project—you'll just need to
-replace any `docker-compose` command with `mutagen compose`. Once the project is
+replace any `docker-compose` command with `mutagen-compose`. Once the project is
 running, you can access the application at
 [http://localhost:8080](http://localhost:8080). Note that it may take a few
 seconds for the frontend components of the application to build when starting

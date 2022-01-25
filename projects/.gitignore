@@ -1,0 +1,3 @@
+# Mutagen project lock files
+*.lock
+!yarn.lock

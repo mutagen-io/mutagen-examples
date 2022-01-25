@@ -1,4 +1,4 @@
-module github.com/mutagen-io/mutagen/examples/docker/go-web/api
+module github.com/mutagen-io/mutagen-examples/projects/docker/go-web/api
 
 go 1.13
 
